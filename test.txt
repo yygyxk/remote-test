@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 testaaaaa
 tsetdae2wea
 ewaeas
@@ -5,3 +6,6 @@ d
 we
 a
 ea
+=======
+testaa
+>>>>>>> 0c8826d (final)
